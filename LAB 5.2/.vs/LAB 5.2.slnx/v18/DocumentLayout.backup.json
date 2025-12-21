@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VB\\LAB 5.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD5E71EF-6F02-4955-A2F8-D73D4FA1C9D6}|LAB 5.2\\LAB 5.2.vcxproj|D:\\VB\\LAB 5.2\\LAB 5.2\\LAB 5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD5E71EF-6F02-4955-A2F8-D73D4FA1C9D6}|LAB 5.2\\LAB 5.2.vcxproj|solutionrelative:LAB 5.2\\LAB 5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB 5.2.cpp",
+              "DocumentMoniker": "D:\\VB\\LAB 5.2\\LAB 5.2\\LAB 5.2.cpp",
+              "RelativeDocumentMoniker": "LAB 5.2\\LAB 5.2.cpp",
+              "ToolTip": "D:\\VB\\LAB 5.2\\LAB 5.2\\LAB 5.2.cpp*",
+              "RelativeToolTip": "LAB 5.2\\LAB 5.2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-14T09:22:15.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

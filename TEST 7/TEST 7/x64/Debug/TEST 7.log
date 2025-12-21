@@ -1,0 +1,4 @@
+﻿  TEST 7.cpp
+C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.50.35717\include\cfloat(10,10): error C1083: Cannot open include file: 'float.h': No such file or directory
+  (compiling source file 'TEST%207.cpp')
+  

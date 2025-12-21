@@ -1,0 +1,3 @@
+﻿  Lab5.cpp
+D:\VB\Lab5\Lab5\Lab5.cpp(13,9): error C2082: redefinition of formal parameter 'width'
+D:\VB\Lab5\Lab5\Lab5.cpp(13,16): error C2082: redefinition of formal parameter 'height'

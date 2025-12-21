@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F514AE-0EB3-4A0F-A9A2-5FD04E4E3CCD}|..\\LAB6.4\\LAB6.4.vcxproj|D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6.4\\LAB6.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{024B7323-0F5E-41A9-B79B-EA1EAA9672FF}|..\\LAB6.3\\LAB6.3.vcxproj|D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6.3\\LAB6.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E718704F-C8CA-4DF8-A73B-6F1AB43C281B}|LAB6.vcxproj|D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6\\LAB6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E718704F-C8CA-4DF8-A73B-6F1AB43C281B}|LAB6.vcxproj|solutionrelative:LAB6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0254DC-C5AF-45EC-8793-A80F23C6987E}|..\\LAB6.1\\LAB6.1.vcxproj|D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6.1\\LAB6.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB6.4.cpp",
+              "DocumentMoniker": "D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6.4\\LAB6.4.cpp",
+              "RelativeDocumentMoniker": "..\\LAB6.4\\LAB6.4.cpp",
+              "ToolTip": "D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6.4\\LAB6.4.cpp",
+              "RelativeToolTip": "..\\LAB6.4\\LAB6.4.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:44:25.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB6.3.cpp",
+              "DocumentMoniker": "D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6.3\\LAB6.3.cpp",
+              "RelativeDocumentMoniker": "..\\LAB6.3\\LAB6.3.cpp",
+              "ToolTip": "D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6.3\\LAB6.3.cpp",
+              "RelativeToolTip": "..\\LAB6.3\\LAB6.3.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:30:08.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB6.1.cpp",
+              "DocumentMoniker": "D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6.1\\LAB6.1.cpp",
+              "RelativeDocumentMoniker": "..\\LAB6.1\\LAB6.1.cpp",
+              "ToolTip": "D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6.1\\LAB6.1.cpp",
+              "RelativeToolTip": "..\\LAB6.1\\LAB6.1.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T09:08:52.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB6.cpp",
+              "DocumentMoniker": "D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6\\LAB6.cpp",
+              "RelativeDocumentMoniker": "LAB6.cpp",
+              "ToolTip": "D:\\00. NIRAN P\\Python\\Python Term 2\\LAB6\\LAB6.cpp",
+              "RelativeToolTip": "LAB6.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-21T08:48:59.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
